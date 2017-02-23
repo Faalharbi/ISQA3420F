@@ -1,1 +1,18 @@
+Title: Get the information of Software policies, and vulnerability infomration.
+
+Primary Actor: Manager.
+
+Goal in Context: To get the Software and vulnerability information.
+
+Stakeholders: Manager, Developer.
+
+Preconditions: 
+1.Software policies stored in database.
+2.Vulnerability information stored in database.
+
+Main Success Scenario: Manager retrives policy information.
+
+Failed End Conditions: Manager retrives policy information.
+
+Trigger: Request sent to data store for policy infomration.
 
