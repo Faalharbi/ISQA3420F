@@ -12,7 +12,26 @@ Preconditions:
 
 Main Success Scenario: Manager retrives policy information.
 
-Failed End Conditions: Manager retrives policy information.
+Failed End Conditions: Manager not been able to retrive policy information.
 
 Trigger: Request sent to data store for policy infomration.
+
+--------------------------------------------------------------------------------------
+
+Title: Get the Vulnerability information from NIST repository.
+
+Primary Actor: Developer
+
+Goal in Context: To get open source vulnerability information.
+
+Stakeholders: Manager, Developer.
+
+Preconditions: 
+1.Vulnerability information stored in NIST data store .
+
+Main Success Scenario: Develoepr retrives vulnerability information.
+
+Failed End Conditions: Developer not been able to retrive vulnerability information.
+
+Trigger: Request sent to data store for vulnerability infomration.
 
