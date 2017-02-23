@@ -1,1 +1,7 @@
-This system helps in understanding the flow of information while developing the system to fuse the open source component in to the legacy system. Open source systems are free system that are used for various reasons, including cost effectiveness. However, there can be several vulnerability with this piece, to reduce the rick an organization has to follow procedures that scan for the vulenrabilities using NIST and other data stores.
+This system helps in understanding the flow of information while developing the system to fuse the open source component 
+in to the legacy system. Open source systems are free system that are used for various reasons, including cost effectiveness. 
+However, there can be several vulnerability with this piece, to reduce the rick an organization has to follow procedures that 
+scan for the vulenrabilities using NIST and other data stores.
+
+Developer and manager work colaboratively to build the system. Manager uses his authority to control the system development by the developer.
+Manager has the authority to say no, and stop the development if the developer is not following proper policies. 
