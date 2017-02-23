@@ -1,37 +1,41 @@
-Title: Get the information of Software policies, and vulnerability infomration.
-
+Use case
+Title: Get the information of Software policies, and vulnerability information.
 Primary Actor: Manager.
-
 Goal in Context: To get the Software and vulnerability information.
-
 Stakeholders: Manager, Developer.
 
 Preconditions: 
-1.Software policies stored in database.
-2.Vulnerability information stored in database.
+1.	Software policies stored in database.
+2.	Vulnerability information stored in database.
 
-Main Success Scenario: Manager retrives policy information.
-
-Failed End Conditions: Manager not been able to retrive policy information.
-
-Trigger: Request sent to data store for policy infomration.
+Main Success Scenario: Manager retires policy information.
+Failed End Conditions: Manager not been able to retrieve policy information.
+Trigger: Request sent to data store for policy information.
 
 --------------------------------------------------------------------------------------
 
 Title: Get the Vulnerability information from NIST repository.
-
 Primary Actor: Developer
-
 Goal in Context: To get open source vulnerability information.
-
 Stakeholders: Manager, Developer.
 
 Preconditions: 
-1.Vulnerability information stored in NIST data store .
+1.	Vulnerability information stored in NIST data store.
 
-Main Success Scenario: Develoepr retrives vulnerability information.
+Main Success Scenario: Developer retries vulnerability information.
+Failed End Conditions: Developer not been able to retrieve vulnerability information.
+Trigger: Request sent to data store for vulnerability information.
 
-Failed End Conditions: Developer not been able to retrive vulnerability information.
+----------------------------------------------------------------------------------------
+Title: Update the Policy information.
+Primary Actor: Manager
+Goal in Context: To update the policy information for the system.
+Stakeholders: Manager, Developer.
 
-Trigger: Request sent to data store for vulnerability infomration.
+Preconditions: 
+1.	Policy info successfully updated.
+
+Main Success Scenario: Manager has been able to update the Policy information.
+Failed End Conditions: Manager has not been able to update the Policy information.
+Trigger: Request sent to software policy data store for .
 
