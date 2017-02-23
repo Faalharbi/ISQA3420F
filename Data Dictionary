@@ -16,6 +16,20 @@ NIST - NIST data stores that stores OSS vulnerability information.
 License/Vulnerability - Stores the in system license and vulnerability information.
 
 Data flows
+License Result – Provide the License information.
+Package Request – Sends software package request.
+Vulnerability Result – Provides OSS vulnerability results.
+License/Vulnerability Result – Provides license/vulnerability information.
+Package Result – Provides software package information.
+Software Package License Result – Provides software package license result.
+Software Package Name – Provides software package name to NIST.
+License/Vulnerability Request – Sends license/vulnerability request. 
+Software Policy Request – Sends software policy request.
+Software Policy Results – Provides software policy results.
+New Software Policy – Sends new policy information.
+Software Policy Update – Provides software policy update.
+
+
 
 
 
