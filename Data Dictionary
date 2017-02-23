@@ -1,8 +1,8 @@
 Processes
 Package OSS management - Process the information from the NIST data store.
-License Scanner - Scanes the information about the software licenses.
-Retrive Software information - Retrive software information.
-Retrive software policy - Retrieve software policy.
+License Scanner - Scans the information about the software licenses.
+Retrieve Software information - Retrieve software information.
+Retrieve software policy - Retrieve software policy.
 Create software policy - Creates software policy.
 Edit software policy - Edits software policy.
 
@@ -13,8 +13,11 @@ Manager - Person who manages the careful and efficient development of the system
 Data Stores 
 Software policy - Stores the software policies information.
 NIST - NIST data stores that stores OSS vulnerability information.
-License/Vulnerability - Stores the in system license and vulnerability inforamtion.
+License/Vulnerability - Stores the in system license and vulnerability information.
 
 Data flows
+
+
+
 
 
